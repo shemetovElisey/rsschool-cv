@@ -1,7 +1,1 @@
-# My CV
-
-## Contacts
-**Elisey Shemetov**
-**Telegram**: @shemetov_elisey
-**Github**: https://github.com/shemetovElisey
-**E-mail**: shemetov.elisey@gmail.com
+[https:/shemetovElisey.github.io/rsschool-cv/cv](https:/shemetovElisey.github.io/rsschool-cv/cv)
